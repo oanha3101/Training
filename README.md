@@ -3,4 +3,7 @@ About
 
 Learn and practice GitHub.
 
-Change file
+## What I learned
+- How to use Git
+- How to push changes to GitHub
+- How to create a pull request
